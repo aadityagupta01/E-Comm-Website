@@ -20,5 +20,3 @@ First, install the necessary dependencies:
 ```bash
 npm install
 =======
-# E-Comm-Website
->>>>>>> ed21793a436eb55890cf28e285a2454090f094c1
