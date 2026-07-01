@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YourShopie
 
 A modern, full-stack e-commerce web application built using Next.js, React, and Prisma.
@@ -18,3 +19,6 @@ A modern, full-stack e-commerce web application built using Next.js, React, and 
 First, install the necessary dependencies:
 ```bash
 npm install
+=======
+# E-Comm-Website
+>>>>>>> ed21793a436eb55890cf28e285a2454090f094c1
